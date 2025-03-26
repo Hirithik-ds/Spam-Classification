@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+sci-kit learn
+seaborn
+joblib
+WordCloud
